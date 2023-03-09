@@ -1,0 +1,104 @@
+.root {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 225px;
+  height: 45px;
+  align-items: flex-start;
+}
+.rectangle27 {
+  position: absolute;
+  left: 0;
+  right: 80%;
+  top: 0;
+  bottom: 0;
+  border-radius: 25px;
+  background-color: #fff;
+}
+.facebook {
+  position: absolute;
+  left: 1.3333%;
+  right: 81.3333%;
+  top: 8.5579%;
+  bottom: 7.4971%;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.rectangle28 {
+  position: absolute;
+  left: 26.6667%;
+  right: 53.3333%;
+  top: 0;
+  bottom: 0;
+  border-radius: 25px;
+  background-color: #fff;
+}
+.twitter {
+  position: absolute;
+  left: 28%;
+  right: 54.6667%;
+  top: 8.5579%;
+  bottom: 7.4971%;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle29 {
+  position: absolute;
+  left: 53.3333%;
+  right: 26.6667%;
+  top: 0;
+  bottom: 0;
+  border-radius: 25px;
+  background-color: #fff;
+}
+.rectangle30 {
+  position: absolute;
+  left: 80%;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  border-radius: 25px;
+  background-color: #fff;
+}
+.vector {
+  position: absolute;
+  left: 54.6667%;
+  right: 28%;
+  top: 8.5579%;
+  bottom: 7.4971%;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.vector2 {
+  position: absolute;
+  left: 82.2222%;
+  right: 2.2222%;
+  top: 15.0152%;
+  bottom: 9.6496%;
+  overflow: visible;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.vector3 {
+  position: absolute;
+  left: 86.6667%;
+  right: 6.6667%;
+  top: 36.5397%;
+  bottom: 31.1738%;
+  overflow: visible;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}

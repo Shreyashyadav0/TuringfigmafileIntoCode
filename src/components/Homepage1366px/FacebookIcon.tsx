@@ -1,0 +1,13 @@
+import { memo, SVGProps } from 'react';
+
+const FacebookIcon = (props: SVGProps<SVGSVGElement>) => (
+  <svg preserveAspectRatio='none' viewBox='0 0 38 37' fill='none' xmlns='http://www.w3.org/2000/svg' {...props}>
+    <path
+      d='M37.8417 18.5755C37.8417 8.66734 29.5603 0.635586 19.3461 0.635586C9.12724 0.637814 0.845833 8.66734 0.845833 18.5778C0.845833 27.5299 7.6106 34.951 16.4515 36.2971V23.7614H11.7582V18.5778H16.4561V14.6221C16.4561 10.127 19.2189 7.64442 23.4428 7.64442C25.4681 7.64442 27.5835 7.99431 27.5835 7.99431V12.4069H25.2508C22.955 12.4069 22.2383 13.7908 22.2383 15.2104V18.5755H27.3662L26.5478 23.7592H22.236V36.2949C31.0769 34.9488 37.8417 27.5277 37.8417 18.5755Z'
+      fill='#3FA0BB'
+    />
+  </svg>
+);
+
+const Memo = memo(FacebookIcon);
+export { Memo as FacebookIcon };
